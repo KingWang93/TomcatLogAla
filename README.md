@@ -14,3 +14,7 @@ Hadoop-2.7.2/Hbase-1.1.2/Hive-1.2.1/Zookeeper-3.4.6/Mysql/VMware/Ubuntu14.0
 (3)利用Partitioner类，根据正则匹配，将IP访问量统计结果，每天访问量统计结果，时间段统计结果，访问方法比例统计结果输出到不同的文件（这时候结果还没有排序）
 (4)对HDFS输出结果进行排序
 (5)利用Echart进行结果展示
+
+具体细节，请参考博客地址里的链接
+http://blog.csdn.net/wk1134314305/article/details/61965135
+（链接中有该项目的文档说明和代码，以及相应的软件安装环境）。
